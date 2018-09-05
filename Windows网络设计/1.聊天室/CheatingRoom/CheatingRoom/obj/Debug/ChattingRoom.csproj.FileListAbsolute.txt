@@ -1,0 +1,10 @@
+D:\WindowNetwork\Windows网络设计\1.聊天室\CheatingRoom\CheatingRoom\bin\Debug\CheatingRoom.exe.config
+D:\WindowNetwork\Windows网络设计\1.聊天室\CheatingRoom\CheatingRoom\bin\Debug\CheatingRoom.exe
+D:\WindowNetwork\Windows网络设计\1.聊天室\CheatingRoom\CheatingRoom\bin\Debug\CheatingRoom.pdb
+D:\WindowNetwork\Windows网络设计\1.聊天室\CheatingRoom\CheatingRoom\obj\Debug\ChattingRoom.csprojAssemblyReference.cache
+D:\WindowNetwork\Windows网络设计\1.聊天室\CheatingRoom\CheatingRoom\obj\Debug\CheatingRoom.Form1.resources
+D:\WindowNetwork\Windows网络设计\1.聊天室\CheatingRoom\CheatingRoom\obj\Debug\CheatingRoom.Properties.Resources.resources
+D:\WindowNetwork\Windows网络设计\1.聊天室\CheatingRoom\CheatingRoom\obj\Debug\ChattingRoom.csproj.GenerateResource.cache
+D:\WindowNetwork\Windows网络设计\1.聊天室\CheatingRoom\CheatingRoom\obj\Debug\ChattingRoom.csproj.CoreCompileInputs.cache
+D:\WindowNetwork\Windows网络设计\1.聊天室\CheatingRoom\CheatingRoom\obj\Debug\CheatingRoom.exe
+D:\WindowNetwork\Windows网络设计\1.聊天室\CheatingRoom\CheatingRoom\obj\Debug\CheatingRoom.pdb

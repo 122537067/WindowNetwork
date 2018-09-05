@@ -70,6 +70,8 @@ namespace FormUdpSend
                     case 1://发送数据 
                         b_txt = Encoding.UTF8.GetBytes(strSendTxt);
                         iByteLen = b_txt.Length;
+                        //初始化缓存数据
+                        Array.Clear(udpSendDataBuf, iWaitRetCode, iByteLen);
                         //复制数组
                         Array.Copy(b_txt, udpSendDataBuf, iByteLen);
                         //发送到指定IP

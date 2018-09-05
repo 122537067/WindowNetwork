@@ -17,3 +17,13 @@ D:\Windows网络设计\FormUdpSend\FormUdpSend\obj\Debug\FormUdpSend.csproj.Gene
 D:\Windows网络设计\FormUdpSend\FormUdpSend\obj\Debug\FormUdpSend.csproj.CoreCompileInputs.cache
 D:\Windows网络设计\FormUdpSend\FormUdpSend\obj\Debug\FormUdpSend.exe
 D:\Windows网络设计\FormUdpSend\FormUdpSend\obj\Debug\FormUdpSend.pdb
+D:\WindowNetwork\Windows网络设计\1.聊天室\FormUdpSend\FormUdpSend\bin\Debug\FormUdpSend.exe.config
+D:\WindowNetwork\Windows网络设计\1.聊天室\FormUdpSend\FormUdpSend\bin\Debug\FormUdpSend.exe
+D:\WindowNetwork\Windows网络设计\1.聊天室\FormUdpSend\FormUdpSend\bin\Debug\FormUdpSend.pdb
+D:\WindowNetwork\Windows网络设计\1.聊天室\FormUdpSend\FormUdpSend\obj\Debug\FormUdpSend.csprojAssemblyReference.cache
+D:\WindowNetwork\Windows网络设计\1.聊天室\FormUdpSend\FormUdpSend\obj\Debug\FormUdpSend.Form1.resources
+D:\WindowNetwork\Windows网络设计\1.聊天室\FormUdpSend\FormUdpSend\obj\Debug\FormUdpSend.Properties.Resources.resources
+D:\WindowNetwork\Windows网络设计\1.聊天室\FormUdpSend\FormUdpSend\obj\Debug\FormUdpSend.csproj.GenerateResource.cache
+D:\WindowNetwork\Windows网络设计\1.聊天室\FormUdpSend\FormUdpSend\obj\Debug\FormUdpSend.csproj.CoreCompileInputs.cache
+D:\WindowNetwork\Windows网络设计\1.聊天室\FormUdpSend\FormUdpSend\obj\Debug\FormUdpSend.exe
+D:\WindowNetwork\Windows网络设计\1.聊天室\FormUdpSend\FormUdpSend\obj\Debug\FormUdpSend.pdb
