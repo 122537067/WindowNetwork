@@ -1,0 +1,9 @@
+C:\Users\HDLB601S017\Desktop\Server\Server\bin\Debug\Server.exe.config
+C:\Users\HDLB601S017\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\HDLB601S017\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\HDLB601S017\Desktop\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\HDLB601S017\Desktop\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\HDLB601S017\Desktop\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\HDLB601S017\Desktop\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\HDLB601S017\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\HDLB601S017\Desktop\Server\Server\obj\Debug\Server.pdb

@@ -1,0 +1,9 @@
+C:\Users\HDLB601S018\Desktop\UdpFileRecv\UdpFileRecv\bin\Debug\UdpFileRecv.exe.config
+C:\Users\HDLB601S018\Desktop\UdpFileRecv\UdpFileRecv\obj\Debug\UdpFileRecv.csprojResolveAssemblyReference.cache
+C:\Users\HDLB601S018\Desktop\UdpFileRecv\UdpFileRecv\obj\Debug\UdpFileRecv.Form1.resources
+C:\Users\HDLB601S018\Desktop\UdpFileRecv\UdpFileRecv\obj\Debug\UdpFileRecv.Properties.Resources.resources
+C:\Users\HDLB601S018\Desktop\UdpFileRecv\UdpFileRecv\obj\Debug\UdpFileRecv.csproj.GenerateResource.Cache
+C:\Users\HDLB601S018\Desktop\UdpFileRecv\UdpFileRecv\bin\Debug\UdpFileRecv.exe
+C:\Users\HDLB601S018\Desktop\UdpFileRecv\UdpFileRecv\bin\Debug\UdpFileRecv.pdb
+C:\Users\HDLB601S018\Desktop\UdpFileRecv\UdpFileRecv\obj\Debug\UdpFileRecv.exe
+C:\Users\HDLB601S018\Desktop\UdpFileRecv\UdpFileRecv\obj\Debug\UdpFileRecv.pdb
