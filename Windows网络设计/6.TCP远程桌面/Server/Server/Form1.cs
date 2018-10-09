@@ -99,7 +99,7 @@ namespace Server
             LingerOption _lingerOption = new LingerOption(true, 3);
             S_Listen_sock.SetSocketOption(SocketOptionLevel.Socket, SocketOptionName.Linger, _lingerOption);
             S_Listen_sock.Blocking = false;//设定其为异步 
-            IPEndPoint host_end = new IPEndPoint(IPAddress.Parse("192.168.191.1"), Int32.Parse("8133"));
+            IPEndPoint host_end = new IPEndPoint(IPAddress.Parse("172.16.136.28"), Int32.Parse("8135"));
 
             User_Terminate_listen.Reset();
             S_Listen_sock.Bind(host_end);//开始绑定
@@ -115,6 +115,7 @@ namespace Server
             //关闭所有的子socket，结束监听 
             //不应该马上调用关闭，因为这会清空S_Listen_sock对象
             //将会迟些时候关闭 
+            //S_Listen_sock.Close();
             SendMessage(main_wnd_handle, END_LISTEN, 100, 200);
         }
 
@@ -242,7 +243,7 @@ namespace Server
         {
             if (form_loaded)
             {
-                e.Graphics.DrawImage(bp_screen, 0, 0);
+                e.Graphics.DrawImage(bp_full, 0, 0);
             }
         }
 
@@ -250,6 +251,18 @@ namespace Server
         {
             //停止listen线程
             User_Terminate_listen.Set();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            main_wnd_handle = this.Handle;
+
+            User_Terminate_listen = new ManualResetEvent(false);
+            ms_cap_pic = new MemoryStream(5000000);
+            bp_full = new Bitmap("fsdg.bmp");
+            bp_small = new Bitmap("essdge.bmp"); 
+
+
         }
     }
 }

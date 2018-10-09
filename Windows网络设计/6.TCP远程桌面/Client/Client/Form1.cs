@@ -45,7 +45,7 @@ namespace Client
         static void thread_capture_send()
         {
             //连接服务器
-            IPEndPoint remoteEP = new IPEndPoint(IPAddress.Parse("192.168.191.1"), Int32.Parse("8133"));
+            IPEndPoint remoteEP = new IPEndPoint(IPAddress.Parse("172.16.136.28"), Int32.Parse("8135"));
             // Create a TCP/IP socket.
             Socket client_sock = new Socket(AddressFamily.InterNetwork,
                 SocketType.Stream, ProtocolType.Tcp);
