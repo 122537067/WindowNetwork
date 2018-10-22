@@ -21,3 +21,6 @@
 
 ### 4.TCP远程桌面监控
 ![Image text](https://github.com/122537067/WindowNetwork/blob/master/Windows%E7%BD%91%E7%BB%9C%E8%AE%BE%E8%AE%A1/6.TCP%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2/%E6%8D%95%E8%8E%B7TCP%E8%BF%9C%E7%A8%8B%E8%BF%9E%E6%8E%A5.PNG)
+
+### 9.HTTP协议网页内容获取
+![Image text](https://github.com/122537067/WindowNetwork/blob/master/Windows%E7%BD%91%E7%BB%9C%E8%AE%BE%E8%AE%A1/9.HTTP%E5%8D%8F%E8%AE%AE%E5%BA%94%E7%94%A8%E7%BD%91%E9%A1%B5%E8%8E%B7%E5%8F%96/09.png)
